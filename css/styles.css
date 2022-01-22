@@ -14,3 +14,6 @@ p {
 h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+#img-div {
+  margin: 0 11em;
+}

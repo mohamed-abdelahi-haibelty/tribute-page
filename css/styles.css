@@ -5,9 +5,9 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   /* font-family: "Montserrat", sans-serif; */
 }
-/* p {
-  line-height: 1.7em;
-} */
+body {
+  background-color: #ccc;
+}
 #title {
   text-align: center;
   padding: 5em 0 2em 0;
@@ -28,10 +28,6 @@ h1 {
 h2 {
   text-align: center;
 }
-/* ul {
-  padding-left: 40em;
-  padding-right: 40em;
-} */
 ul {
   max-width: 550px;
   margin: 0 auto 50px auto;
